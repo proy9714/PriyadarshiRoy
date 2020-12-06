@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Priyadarshi Roy 👋
 
 - 🔭 I’m currently working on Machine Learning
 - 🌱 I’m currently learning NLP, Reinforcement learning
