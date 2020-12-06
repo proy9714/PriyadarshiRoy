@@ -1,12 +1,17 @@
-### Hi there I'm Priyadarshi Roy 👋
+<h1 align="center">Hi there 👋, I'm Priyadarshi :smiley: </h1>
+<h3 align="center">
+    <h4>Currently pursuing Master of Science in Computer Science from Pondicherry University, India
+</h3>
 
-- 🔭 I’m currently working on Machine Learning
+- :computer: I’m currently working on **Machine Learning**
 
-- 🌱 I’m currently learning NLP, Reinforcement learning
+- :pencil: I’m currently learning **NLP, Reinforcement learning**
 
-- 💬 Ask me about  Python, Java, C, Web development, ML
+- 💬 Ask me about  **Python, Java, C, Web development, ML**
 
-- 📫 How to reach me: proy9714@gmail.com
+- :key:  Interested in **Ethical Hacking**
 
-- ⚡ Fun fact: Love photography and trekking
+- :e-mail: How to reach me: **proy9714@gmail.com**
+
+- ⚡ Fun fact: Love **photography** :camera: and **trekking** :snowflake:
 
