@@ -7,7 +7,7 @@
 
 - :computer: I’m currently working on **Machine Learning**
 
-- :pencil: I’m currently learning **NLP, Reinforcement learning**
+- :pencil: I’m currently learning **NLP, Reinforcement learning, Ethical Hacking**
 
 - 💬 Ask me about  **Python, Java, C, Web development, ML**
 
