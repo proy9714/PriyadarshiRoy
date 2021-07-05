@@ -3,7 +3,7 @@
     <h4>Currently pursuing Master of Science in Computer Science from St. Xaviers College, Kolkata, India
 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PriyadarshiRoy&color=yellow&style=flat-square&label=PROFILE+VIEWS" alt="PriyadarshiRoy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PriyadarshiRoy & color=green&style=plastic & label=PROFILE+VIEWS" alt="PriyadarshiRoy" /> </p>
 
 - :computer: I’m currently working on **Machine Learning**
 
